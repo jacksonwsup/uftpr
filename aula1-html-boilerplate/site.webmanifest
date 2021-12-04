@@ -1,6 +1,6 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "Aula 01",
+  "name": "Aula 01: HTML + CSS",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",

@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jackson> -- <DEV> -- <github.com/jacksonwsup>
 
 # THANKS
 
